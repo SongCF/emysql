@@ -1,3 +1,5 @@
+**我们已经没有再使用emysql了，用的[mysql-otp-poolboy](https://github.com/SongCF/mysql-otp-poolboy)**
+
 # CHANGELOG
 1. 添加transaction
 2. 处理超时断连和mysql-server挂掉时的错误
